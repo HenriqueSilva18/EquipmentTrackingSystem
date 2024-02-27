@@ -17,7 +17,7 @@ This project is an equipment tracking system developed in C, tailored to efficie
     <ul>
         <li><strong>Equipment Management</strong>: Add, edit, remove, and search for equipments in the catalog.</li>
         <li><strong>User Management</strong>: Allow administrators to manage users, including creation, modification, and removal.</li>
-        <li><strong>Activity Sector Management</strong>: Manage the categorization of equipment by sectors, enabling easy organization and retrieval.</li>
+        <li><strong>Category Management: </strong>Manage the categorization of equipment by status and category, enabling easy organization and retrieval.</li>
         <li><strong>Reports Generation</strong>: Generate analytical reports detailing equipment status, maintenance history, and user activity.</li>
         <li><strong>Data Persistence</strong>: Save and load data to/from binary files, maintaining data across sessions.</li>
     </ul>
